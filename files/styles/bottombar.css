@@ -1,0 +1,49 @@
+.bottombar {
+    display: flex;
+    overflow: hidden;
+    background-color: #1c1f1d;
+    border-radius: 0.8vw;
+    flex-direction: column;
+}
+
+.bottombar .discord-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 1.2%;
+    text-decoration: none;
+    font-size: 8vh;
+    font-family: "pusia";
+    border-color: white;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.bottombar .discord-dd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 1.2%;
+    text-decoration: none;
+    font-size: 8vh;
+    font-family: "pusia";
+    border-color: white;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.bottombar .nko {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 1.2%;
+    text-decoration: none;
+    font-size: 4vh;
+    font-family: "pusia";
+    border-color: white;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}

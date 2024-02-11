@@ -1,0 +1,15 @@
+.hand {
+    cursor: pointer;
+}
+
+.background {
+    background-image: url('../../files/images/background.jpg');
+    background-size: 100% 100%;
+    object-fit: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.center {
+    text-align: center;
+}
