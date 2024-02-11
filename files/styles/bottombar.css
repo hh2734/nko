@@ -48,6 +48,6 @@
     hyphens: auto;
 }
 
-.bottombar .nko a {
-    color: inherit;
+a {
+    color: blue;
 }
