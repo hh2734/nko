@@ -40,7 +40,7 @@
     align-items: center;
     color: white;
     padding: 1.2%;
-    /*text-decoration: none;*/
+    text-decoration: none;
     font-size: 4vh;
     font-family: "pusia";
     border-color: white;
@@ -48,6 +48,15 @@
     hyphens: auto;
 }
 
-.bottombar .nko a {
-    color: inherit;
+.bottombar .nko-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    padding: 1.2%;
+    font-size: 4vh;
+    font-family: "pusia";
+    border-color: white;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
