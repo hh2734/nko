@@ -189,8 +189,65 @@ html, body {
     font-size: 7vw;
 }
 
+.mod {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 
+    padding: 1.2%;
 
+    font-family: "pusia";
+
+    border-radius: 0.8vw;
+
+    background: rgba(0, 0, 0, 0.5);
+
+    margin-bottom: 4vw;
+}
+
+.mod img {
+    width: 5vw;
+    height: 5vw;
+}
+.mod name {
+    padding-top: 1.5vw;
+    font-size: 3.5vw;
+}
+
+.mod description {
+
+    color: white;
+
+    font-size: 2.5vw;
+    
+
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.mod a {
+    cursor: pointer;
+
+    color: white;
+    background-color: #2bd94e;
+
+    border-radius: 0.8vw;
+
+    padding: 1.2%;
+
+    text-decoration: none;
+
+    font-size: 2vw;
+    font-family: "pusia";
+
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.mod a:hover {
+    -webkit-text-stroke: 0.1vw black;
+    background-color: cyan;
+}
 
 /******************* адаптация *******************/
 
@@ -200,7 +257,7 @@ html, body {
 
 
 
-    /*** Основтой контент ***/
+    /*** Основной контент ***/
 
 .background {
     background-image: url('../images/background.jpg');
@@ -362,7 +419,7 @@ html, body {
 
  /*** Основтой контент ***/
 
-.content{
+.content {
     font-size: 5vw;
 }
 
