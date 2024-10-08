@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <sys>
+        <version>7</version>
+        <app_version>v0.0.8</app_version>
+    </sys>
+    <author>
+        <name>Термоядерный кабан, Бимба</name>
+        <mail>ludashep9@gmail.com, (N/A)</mail>
+        <discord>@kaban1871; @bimba2947</discord>
+    </author>
+    <mod>
+        <name>Контент-мод</name>
+        <creation_date>15.03.2024</creation_date>
+        <comment>SXoK2s9B4H1KpawSHRf1XCMrZ16speci5wETwm/LdJu4Ky2WqAj1pO2cXS78uhF5NaVHJ/rtXPZ1/B9PtFamr06zIlpbQveOsGRabZQTIqaP92dm1XPXBd0FeZoMPYc4PJSX7yuNZHmKmsBAYOycW8ooyvt4fS5zXV1XkjOTsenw3BTb7yHazOQldc9pAXoAEtUpxC95lcqT2X4W80QNP6bM3QVyTOY8wnbD2zSOJncC9FyplMZQLLiTVk6jyRPb7/CyyA31RQ8lGvmzNTipJcs+nWK8OmcI+43W/0LogXDeRuIYrZzwT4kI66y7d5f/KUpKNNti7ERknC3lhH6s9OTAV113aJhAWR2DD1daZ4g7HFSFvGFFl8ccxkNSE4ml0XzkkWSZJQ6loMz3Z1bZBkXsfLGce8oqwFZXA9CIQKeRq0n674HprukY7tYNkYFfnOzz2q2p6XASSEFQ5pgTeQL285GeOeIn+6wnbQL3GbDz0L+IqhXdnDBHLBpi+SYbvm8blK8X8WV+1eqIhh90syOhyikoelD8ZoETWm2iF0ED+uCsCEZQbSx96WQB4z1P29vULAAjVdpFbbmMwcFMMtrzj8cLTU7dU7fMA31BxZBxs3z61K12M0b+jHFnauS8P69oms2ETc5Vo+l8Apa/ZOI1SYX/SWikKfNgE1tJ3WHGaSILC+LHyw/3XWGJFsD6HeXNVkjeWJbOObDssroktdKHL+wdLjzyskR1+ZvLG/qHdpWvPvwKniV+iW+wFGpwFpmwKSnpoJ6dBR61yaPmvNtcwqwG30kq7hNlsIFGWcQcyODIW9F0SoEU4ZaGOek0tLZwMn+W6IO/XfDcnA4BKUGsJptFdwdl6jq+Qwu7dwzmHn1+nxKDuHzUuj8jVSWRYVgRvlLB91mF61Oyjnh02IfQAQttgN9ZrgRbxx2UyowajkRqLrjDPQLfisXg0dM89ZkmfuMUGOwKSiMIfa93LXK056Ol7LomB1D9RdkmYYlftRzpZ81T4QVRLPD8yBbe4la3hKG8EHsR2bSEXJff0EVdzJ7fEjsbedjQabEP7mL14dIoXMPtme4MD+9+VY45sqC5JwEotQaUSjeSsql9KDXSiVzJ3a8nlGFc3XsHs+LxSfR4HUqvMTPGLfDwVw+q7iOyJgRp4v3yvFRJzhOFLeYt1oss9kiy0h2XEBiQ8sDovPtVtrhLeEVPfuAwlHCgIbc4GmE/XBsZ+sOLJPBr84IOhIt7V3ZWe0fMO9vZqevrjk50iwOSImD9IFTafZAu7kx93j4KQHe660+JCtEI8SY3XEFsT0mFej8TNof/+9z6U+j3c0dlUuBGLhw4SmKfjhCXZILZ39mIpUYn24+mTqvPMOhcnqWP+fAN4KvWqZXDkdUcMHDVPx5IB92iG+P2Fh6lZJtMCKFo9Y+u5+yMh7SL7IKmXNdTBlfPcwHEPByZEsREgnnHvUIP0Hqus5evIn0zSK1XJQew7WQKJ+Y71pb8YHOb3bGdpaggDQLNugqBibGAmDP3LFaCkuaV9TkPrDmP7WMAaj5lQI4cGrltks60/vUVVn/DZKQMrLycMrEOGo8OBaH7S+3kprFQxfC6PdTKjAwyBiEhHJwCQTWGbFByCg0kV5Ffe/RtfDnFLatvwhri12yKTxYbeQ8bP5yzrHivdvTr0fbkzvrUW8GEOo88KtK+h3n4jS8fmRxhS2E=</comment>
+        <link>d5zL+LXnelW3MdKYo67evOT7U81Cn3FL2uOrRq9CtmDpe2mD9w5DGyA2fF3invlraV1vMyLOih8BsjFTpIDtFsiu6gf7yhFeuZGO9XyVRwNacl1WdY73ntNR9CMjMmc8</link>
+        <version>1.2.3</version>
+        <tags>Fun; Content; Items;</tags>
+        <game_name>Orion Sandbox Enhanced</game_name>
+    </mod>
+    <postinst>
+        <title>Спасибо</title>
+        <text>Спасибо за установку Контент-мода!</text>
+    </postinst>
+</data>

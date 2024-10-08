@@ -255,6 +255,33 @@ html, body {
     background-color: cyan;
 }
 
+/* Просто кнопка */
+
+.unibutton {
+    cursor: pointer;
+
+    color: white;
+    background-color: #2bd94e;
+
+    border-radius: 0.8vw;
+
+    padding: 1.2%;
+
+    margin-bottom: 1.2%;
+
+    text-decoration: none;
+
+    font-size: 2vw;
+    font-family: "pusia";
+
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.unibutton:hover {
+    -webkit-text-stroke: 0.1vw black;
+    background-color: cyan;
+}
 
 /******************* адаптация *******************/
 
